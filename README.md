@@ -1,0 +1,2 @@
+# Prometheus Diagnostics Aggregator
+This node subscribes to `/diagnostics` topic and aggregates the data from all the nodes. From all the components/nodes that are publishing diagnostics, it aggregates the data and exposes it as Prometheus metrics.

@@ -1,0 +1,8 @@
+
+# Visual Studio Code files
+.vscode
+
+
+# Python artifacts
+__pycache__/
+*.py[cod]
